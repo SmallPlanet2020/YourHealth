@@ -64,8 +64,8 @@ function BMI_CAL() {
         } else {
             BMI_Result.innerHTML = BMI.toFixed(2);;
             h5.innerHTML = "Underweight"
-            document.getElementById("p1").innerHTML = "1. Should eat a variety of food to complete the 5 food groups in the right proportions and more quantity.";
-            document.getElementById("p2").innerHTML = "2. Should move and exercise regularly every day or almost every day. To be moderately tired by taking a short breath";
+            p1.innerHTML = "1. Should eat a variety of food to complete the 5 food groups in the right proportions and more quantity.";
+            p2.innerHTML = "2. Should move and exercise regularly every day or almost every day. To be moderately tired by taking a short breath";
             p3.innerHTML = ""
             p4.innerHTML = ""
         }
