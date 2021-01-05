@@ -1,0 +1,19 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+}
+
+#bg{
+    background-image: url(Image/slimming-2728331.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#WC{
+    color: white;
+    margin-top: 10%;
+}
+#BMI{
+    background-image: url(Image/belly-2354_1920.jpg);
+    background-size: cover;
+    background-position: center;
+}
